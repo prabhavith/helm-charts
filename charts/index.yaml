@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-cart:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-05-10T04:01:24.464116321Z"
+    description: A Helm chart for Kubernetes
+    digest: 5d6b3ac25cc0dca978d752f4002df0321a62c6633220d90429de5cd6c2ce4639
+    name: helm-cart
+    type: application
+    urls:
+    - helm-cart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-10T04:01:24.463741869Z"
